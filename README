@@ -1,0 +1,11 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=53
+
+It is hard to adjust to command/insert mode.  
+If you don't pay attention, all that typing is lost, etc.
+These lines are added to your resource file _gvimrc
+and will change the background color when you
+go into insert mode (not every key, but the main
+ones i,s,a,and o.)  The color changes back when
+you press escape.
+Very helpful for newbies!
+
